@@ -5,6 +5,7 @@ void setup() {
 
 void task1(){
 
+  uint8_t var1 = 26;
   
 }
 
